@@ -1,1 +1,5 @@
-Flask
+# jo jo libraries chahiye, vo vo idhar daldenge.. 
+Flask  # by default hain ye, cuz this is flask lab
+numpy
+pandas 
+scikit_learn # sklearn 
